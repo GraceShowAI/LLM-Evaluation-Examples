@@ -10,6 +10,8 @@ I am an AI Training & Evaluation Expert with experience designing prompts, evalu
 
 ## Sample Work Examples
 
+Work completed on projects cannot be shared due to a signed NDA. All work on Mercor is confidential. Below is an example of my workflow:
+
 ### 1. Prompt Engineering
 - Designed domain-specific prompts to test AI models.
 - Example: "Explain photosynthesis to a 14-year-old."
