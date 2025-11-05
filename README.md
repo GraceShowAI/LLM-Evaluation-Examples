@@ -14,8 +14,8 @@ Work completed on projects cannot be shared due to a signed NDA. All work on Mer
 
 ### 1. Prompt Engineering
 - Designed domain-specific prompts to test AI models.
-- Example: "Explain photosynthesis to a 14-year-old."
-- Evaluated AI responses for clarity, accuracy, and relevance.
+- Prompts need to trigger a failure of at least 30%.
+
 
 ### 2. LLM Output Evaluation
 - Reviewed AI-generated responses and identified patterns in errors.
